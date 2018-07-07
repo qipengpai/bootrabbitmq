@@ -1,0 +1,13 @@
+server:
+  port: 4567
+spring:
+#  application:
+#    name: spirng-boot-rabbitmq
+  rabbitmq:
+      host: 47.104.94.237
+      port: 5672
+      username: qipengpai
+      password: qipengpai
+      v
+
+
